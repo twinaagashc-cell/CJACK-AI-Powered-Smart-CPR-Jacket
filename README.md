@@ -21,6 +21,6 @@ Sudden Cardiac Arrest is one of the leading causes of preventable death worldwid
 
 These challenges highlight the need for an accessible, portable, and intelligent CPR solution.
 
-## Physical Prototype
+## 3D MODEL
 
-![Physical Prototype](images/prototype_real.jpg)
+![Physical Prototype](images/3D IMAGES.png)
