@@ -31,3 +31,41 @@ The following 3D model illustrates the conceptual design of **CJACK**, an AI-ena
 The following diagram presents the overall architecture of the CJACK system, illustrating the interaction between sensing, control, actuation, communication, and safety modules.
 
 ![CJACK System Architecture](images/architecture.png)
+## Key Features
+
+CJACK integrates intelligent automation, wearable technology, and emergency response capabilities into a single portable device.
+
+| Feature | Description |
+|---------|-------------|
+| AI Voice Guidance | Provides step-by-step instructions to assist the rescuer during deployment. |
+| Automated Chest Compressions | Delivers continuous chest compressions after activation. |
+| Wearable Design | Designed to be quickly secured around the patient for rapid deployment. |
+| Emergency Calling | Initiates an emergency call to 108 after activation (planned/implemented as applicable). |
+| Continuous CPR | Reduces interruptions by maintaining automated compressions. |
+| Emergency Stop | Allows immediate termination of operation when required. |
+| Portable Deployment | Suitable for installation in public locations for rapid access. |
+| Multi-Victim Support | Multiple CJACK units can be deployed simultaneously during mass-casualty incidents. |
+
+## Hardware Components
+
+The current CJACK prototype is built using the following hardware components:
+
+| Component | Purpose |
+|-----------|---------|
+| Arduino UNO | Main microcontroller responsible for sensor processing and system control |
+| L298N Motor Driver | Drives and controls the TT DC Gear Motor |
+| TT DC Gear Motor | Generates the mechanical motion required for chest compressions |
+| AD8232 ECG Module | Monitors the patient's ECG signals for cardiac activity |
+| MAX30102 Sensor | Measures heart rate and blood oxygen saturation (SpO₂) |
+| FSR RP-S40-ST Pressure Sensor | Detects compression force to help monitor CPR quality |
+| OnePlus 15 (Snapdragon 8 Elite) | Mobile interface for communication, monitoring, and emergency functions |
+| Rechargeable Li-ion Battery | Portable power source for the system |
+
+## Software Stack
+
+- Arduino IDE
+- AI Voice Guidance Logic
+- Bluetooth / Wi-Fi Communication
+- Mobile Application 
+
+
