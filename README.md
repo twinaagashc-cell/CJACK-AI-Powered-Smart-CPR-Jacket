@@ -21,6 +21,8 @@ Sudden Cardiac Arrest is one of the leading causes of preventable death worldwid
 
 These challenges highlight the need for an accessible, portable, and intelligent CPR solution.
 
-## 3D MODEL
+## 3D Design
 
-![Physical Prototype](images/3D IMAGES.png)
+The following 3D model illustrates the conceptual design of **CJACK**, an AI-enabled smart wearable CPR device for emergency cardiac care. The design demonstrates the proposed wearable form factor and the integration of the automated chest compression mechanism.
+
+![CJACK 3D Design](images/prototype.png)
