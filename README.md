@@ -96,7 +96,7 @@ CJACK is a prototype developed for academic research and hackathon purposes. It 
 - TWINAAGASH C
 - VARSHINI B
 - UDHAYARAGAVAN C
-- 
+
 **Hackathon:** SNAPDRAGON MULTIVERSE HACKATHON
 
 
