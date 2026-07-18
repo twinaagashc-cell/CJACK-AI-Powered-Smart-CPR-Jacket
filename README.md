@@ -66,6 +66,12 @@ The current CJACK prototype is built using the following hardware components:
 - Arduino IDE
 - AI Voice Guidance Logic
 - Bluetooth / Wi-Fi Communication
-- Mobile Application 
+- Mobile Application
+
+  ## Applications
+
+CJACK is designed for deployment in environments where rapid access to emergency CPR can significantly improve patient outcomes. The following illustration highlights representative deployment locations for the proposed system.
+
+![Applications of CJACK](images/applications.png)
 
 
