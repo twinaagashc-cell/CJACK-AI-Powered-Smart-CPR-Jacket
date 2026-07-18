@@ -74,4 +74,12 @@ CJACK is designed for deployment in environments where rapid access to emergency
 
 ![Applications of CJACK](images/applications.png)
 
+## Innovation
+
+CJACK introduces a new approach to emergency cardiac care by combining wearable technology, automated chest compressions, AI-guided assistance, and public accessibility into a single portable system.
+
+Unlike conventional mechanical CPR devices that are primarily designed for hospital use, CJACK is intended for deployment in public environments, enabling immediate intervention before emergency medical services arrive.
+
+A distinguishing aspect of the proposed system is its ability to support multiple victims when multiple CJACK units are available. During mass-casualty incidents, responders can deploy wearable CPR devices on different patients, allowing continuous automated chest compressions while attending to additional victims.
+
 
