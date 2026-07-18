@@ -26,3 +26,8 @@ These challenges highlight the need for an accessible, portable, and intelligent
 The following 3D model illustrates the conceptual design of **CJACK**, an AI-enabled smart wearable CPR device for emergency cardiac care. The design demonstrates the proposed wearable form factor and the integration of the automated chest compression mechanism.
 
 ![CJACK 3D Design](images/prototype.png)
+## System Architecture
+
+The following diagram presents the overall architecture of the CJACK system, illustrating the interaction between sensing, control, actuation, communication, and safety modules.
+
+![CJACK System Architecture](images/architecture.png)
