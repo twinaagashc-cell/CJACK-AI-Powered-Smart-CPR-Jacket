@@ -82,4 +82,21 @@ Unlike conventional mechanical CPR devices that are primarily designed for hospi
 
 A distinguishing aspect of the proposed system is its ability to support multiple victims when multiple CJACK units are available. During mass-casualty incidents, responders can deploy wearable CPR devices on different patients, allowing continuous automated chest compressions while attending to additional victims.
 
+## Disclaimer
+
+CJACK is a prototype developed for academic research and hackathon purposes. It is not a certified medical device and is not intended to replace professional medical equipment or emergency medical services. Any real-world deployment would require comprehensive engineering validation, clinical evaluation, and regulatory approval.
+
+## Team
+
+**Project:** CJACK – AI-Enabled Smart portable CPR jacket for Emergency Cardiac Care
+
+
+**Team Members:**
+
+- TWINAAGASH C
+- VARSHINI B
+- UDHAYARAGAVAN C
+- 
+**Hackathon:** SNAPDRAGON MULTIVERSE HACKATHON
+
 
