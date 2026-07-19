@@ -63,7 +63,7 @@ The current CJACK prototype is built using the following hardware components:
 
 ## Software Stack
 
-- Arduino IDE
+- Arduino App Lab 
 - AI Voice Guidance Logic
 - Bluetooth / Wi-Fi Communication
 - Mobile Application
