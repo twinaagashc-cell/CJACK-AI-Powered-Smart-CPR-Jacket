@@ -99,11 +99,4 @@ CJACK is a prototype developed for academic research and hackathon purposes. It 
 
 **Hackathon:** SNAPDRAGON MULTIVERSE HACKATHON
 
-## Documentation
-
-The following documents provide detailed information about the CJACK project.
-
-- 📄 [Project Report (Word)](docs/CJACK_Project_Report.docx)
-- 📊 [Presentation](docs/CJACK_Presentation.pptx)
-
 
