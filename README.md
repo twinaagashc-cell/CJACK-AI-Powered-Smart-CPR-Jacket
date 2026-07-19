@@ -52,7 +52,7 @@ The current CJACK prototype is built using the following hardware components:
 
 | Component | Purpose |
 |-----------|---------|
-| Arduino UNO | Main microcontroller responsible for sensor processing and system control |
+| Arduino UNO Q| Main microcontroller responsible for sensor processing and system control |
 | L298N Motor Driver | Drives and controls the TT DC Gear Motor |
 | TT DC Gear Motor | Generates the mechanical motion required for chest compressions |
 | AD8232 ECG Module | Monitors the patient's ECG signals for cardiac activity |
